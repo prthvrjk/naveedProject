@@ -13,7 +13,7 @@ public class Name4Application {
 
 		System.out.println("Hello World 4");
 
-	/*	PaymentService.displayTime();*/
+		PaymentService.displayTime();
 
 	}
 
